@@ -1,0 +1,6 @@
+{
+  "name": "Men's Style AI",
+  "description": "Editorial men's fashion stylist, color harmony engine, outfit builder, wardrobe catalog, and photography pose guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
